@@ -1,0 +1,15 @@
+C:\Users\DCV\C#\ToDoApp\ToDoApp\bin\Debug\ToDoApp.exe.config
+C:\Users\DCV\C#\ToDoApp\ToDoApp\bin\Debug\ToDoApp.exe
+C:\Users\DCV\C#\ToDoApp\ToDoApp\bin\Debug\ToDoApp.pdb
+C:\Users\DCV\C#\ToDoApp\ToDoApp\bin\Debug\EntityFramework.dll
+C:\Users\DCV\C#\ToDoApp\ToDoApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DCV\C#\ToDoApp\ToDoApp\bin\Debug\EntityFramework.xml
+C:\Users\DCV\C#\ToDoApp\ToDoApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DCV\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csprojAssemblyReference.cache
+C:\Users\DCV\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.Form1.resources
+C:\Users\DCV\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.Properties.Resources.resources
+C:\Users\DCV\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.GenerateResource.cache
+C:\Users\DCV\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\DCV\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.CopyComplete
+C:\Users\DCV\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.exe
+C:\Users\DCV\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.pdb
