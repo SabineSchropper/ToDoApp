@@ -56,6 +56,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ImmediatelyToDo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImmediatelyToDo.Designer.cs">
+      <DependentUpon>ImmediatelyToDo.cs</DependentUpon>
+    </Compile>
     <Compile Include="ToDo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,6 +70,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ImmediatelyToDo.resx">
+      <DependentUpon>ImmediatelyToDo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ToDo.resx">
       <DependentUpon>ToDo.cs</DependentUpon>
     </EmbeddedResource>
@@ -91,6 +100,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ToDoData\ToDoData.csproj">
+      <Project>{7D5C2BC5-A238-44DB-BC5D-A0A8B72DDCEF}</Project>
+      <Name>ToDoData</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ToDoLogic\ToDoLogic.csproj">
       <Project>{55cbc557-6458-420e-a02e-35bbf9a6c8af}</Project>
       <Name>ToDoLogic</Name>

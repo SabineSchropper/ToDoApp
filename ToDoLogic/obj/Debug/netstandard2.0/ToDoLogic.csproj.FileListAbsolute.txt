@@ -1,0 +1,15 @@
+C:\Users\DCV\C#\ToDoApp\ToDoLogic\obj\Debug\netstandard2.0\ToDoLogic.csprojAssemblyReference.cache
+C:\Users\DCV\C#\ToDoApp\ToDoLogic\obj\Debug\netstandard2.0\ToDoLogic.AssemblyInfoInputs.cache
+C:\Users\DCV\C#\ToDoApp\ToDoLogic\obj\Debug\netstandard2.0\ToDoLogic.AssemblyInfo.cs
+C:\Users\DCV\C#\ToDoApp\ToDoLogic\obj\Debug\netstandard2.0\ToDoLogic.csproj.CoreCompileInputs.cache
+C:\Users\DCV\C#\ToDoApp\ToDoLogic\bin\Debug\netstandard2.0\ToDoLogic.deps.json
+C:\Users\DCV\C#\ToDoApp\ToDoLogic\bin\Debug\netstandard2.0\ToDoLogic.dll
+C:\Users\DCV\C#\ToDoApp\ToDoLogic\bin\Debug\netstandard2.0\ToDoLogic.pdb
+C:\Users\DCV\C#\ToDoApp\ToDoLogic\bin\Debug\netstandard2.0\ToDoData.dll
+C:\Users\DCV\C#\ToDoApp\ToDoLogic\bin\Debug\netstandard2.0\EntityFramework.dll
+C:\Users\DCV\C#\ToDoApp\ToDoLogic\bin\Debug\netstandard2.0\ToDoData.pdb
+C:\Users\DCV\C#\ToDoApp\ToDoLogic\bin\Debug\netstandard2.0\ToDoData.dll.config
+C:\Users\DCV\C#\ToDoApp\ToDoLogic\bin\Debug\netstandard2.0\EntityFramework.xml
+C:\Users\DCV\C#\ToDoApp\ToDoLogic\obj\Debug\netstandard2.0\ToDoLogic.csproj.CopyComplete
+C:\Users\DCV\C#\ToDoApp\ToDoLogic\obj\Debug\netstandard2.0\ToDoLogic.dll
+C:\Users\DCV\C#\ToDoApp\ToDoLogic\obj\Debug\netstandard2.0\ToDoLogic.pdb

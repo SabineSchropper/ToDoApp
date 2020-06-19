@@ -8,11 +8,15 @@ namespace ToDoData
 {
     public partial class ToDo
     {
-        
+        public ToDo()
+        {
+
+        }
         public ToDo(DateTime dateTime, string text)
         {
             this.text = text;
             date_time = dateTime;
+            ///override to string
         }
     }
 }

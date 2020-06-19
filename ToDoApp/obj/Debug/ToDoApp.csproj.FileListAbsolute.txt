@@ -6,10 +6,16 @@ C:\Users\DCV\C#\ToDoApp\ToDoApp\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\DCV\C#\ToDoApp\ToDoApp\bin\Debug\EntityFramework.xml
 C:\Users\DCV\C#\ToDoApp\ToDoApp\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\DCV\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csprojAssemblyReference.cache
-C:\Users\DCV\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.Form1.resources
 C:\Users\DCV\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.Properties.Resources.resources
 C:\Users\DCV\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.GenerateResource.cache
 C:\Users\DCV\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.CoreCompileInputs.cache
 C:\Users\DCV\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.CopyComplete
 C:\Users\DCV\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.exe
 C:\Users\DCV\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.pdb
+C:\Users\DCV\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.ToDo.resources
+C:\Users\DCV\C#\ToDoApp\ToDoApp\bin\Debug\ToDoLogic.dll
+C:\Users\DCV\C#\ToDoApp\ToDoApp\bin\Debug\ToDoData.dll
+C:\Users\DCV\C#\ToDoApp\ToDoApp\bin\Debug\ToDoLogic.pdb
+C:\Users\DCV\C#\ToDoApp\ToDoApp\bin\Debug\ToDoData.pdb
+C:\Users\DCV\C#\ToDoApp\ToDoApp\bin\Debug\ToDoData.dll.config
+C:\Users\DCV\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.ImmediatelyToDo.resources

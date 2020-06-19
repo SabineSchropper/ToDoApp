@@ -14,9 +14,28 @@ namespace ToDoApp
     public partial class ToDo : Form
     {
         Controller controller = new Controller();
+        Timer timer = null;
         public ToDo()
         {
             InitializeComponent();
+            timer = new Timer();
+            timer.Interval = 1000;
+            timer.Tick += Timer_Tick;
+            timer.Start();
+        }
+
+        private void Timer_Tick(object sender, EventArgs e)
+        {
+            List<ToDoData.ToDo> immediateToDos = new List<ToDoData.ToDo>();
+            immediateToDos = controller.CheckImmediateToDos();
+            if (immediateToDos.Count > 0)
+            {
+                timer.Stop();
+                var form = new ImmediatelyToDo(immediateToDos, controller);
+                form.ShowDialog();
+                timer.Start();
+            }
+
         }
 
         private void btnAdd_Click(object sender, EventArgs e)
@@ -24,8 +43,15 @@ namespace ToDoApp
             DateTime dateTime = dateTimePicker.Value;
             string text = richTb.Text;
 
-            controller.AddTask(dateTime, text);
-
+            try
+            {
+                controller.AddTask(dateTime, text);
+                MessageBox.Show("Neues ToDo wurde gespeichert.");
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show("Konnte nicht auf die Datenbank gespeichert werden");
+            }
 
         }
     }
