@@ -16,7 +16,7 @@ namespace ToDoData
         {
             this.text = text;
             date_time = dateTime;
-            ///override to string
+            ///override to string and use models in List instead of Strings!!
         }
     }
 }

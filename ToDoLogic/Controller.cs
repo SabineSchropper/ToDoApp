@@ -31,8 +31,6 @@ namespace ToDoLogic
             immediateToDos = repository.GetImmediateToDosFromDatabase();
 
             return immediateToDos;
-
-            throw new NotImplementedException();
             
         }
         public DateTime SearchDateTime(List<ToDo> immediatelyToDos, string selectedString)

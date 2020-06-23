@@ -31,6 +31,12 @@ namespace ToDoApp
             string selectedString = listBox.SelectedItem.ToString();
             DateTime dateTime = dateTimePicker1.Value;
             controller.UpdateData(ImmediatelyToDos,isChecked,selectedString,dateTime);
+            ///if you check an item "done" it should not be seen anymore
+            if(isChecked && !string.IsNullOrEmpty(selectedString))
+            {
+                ImmediatelyToDos.Remove(ImmediatelyToDos.FirstOrDefault(x => x.text == selectedString));
+                listBox.DataSource = ImmediatelyToDos.Select(x => x.text).ToList();
+            }
         }
 
         private void listBox_Click(object sender, EventArgs e)
